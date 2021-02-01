@@ -1,1 +1,0 @@
-<img src="robert.jpg" alt="Robert" width="400" height="400">
